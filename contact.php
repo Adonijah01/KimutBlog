@@ -44,7 +44,7 @@
 	<section class="main-content-w3layouts-agileits">
 
 		<h3 class="tittle">Contact Us</h3>
-		<p class="sub text-center">We love to discuss your idea</p>
+		<p class="sub text-center">We love to hear from you.</p>
 		<div class="contact-map inner-sec">
 
 			<iframe src="<?php getcontacts("titles","4");?>"
